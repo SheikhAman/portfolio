@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "392950779383",
+    "project_id": "sheikh-aman",
+    "storage_bucket": "sheikh-aman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392950779383:android:1923406fca9919adaff2f2",
+        "android_client_info": {
+          "package_name": "com.example.sheikh_aman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392950779383-7n9tqnrgcj2f4tkbbp45pmkhbdk5uf6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAI-9TMsGERGMD3Wu37E8vQPmk09MtneM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392950779383-7n9tqnrgcj2f4tkbbp45pmkhbdk5uf6a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392950779383-m8khqdlmhvhtaccr8aifi4pvt1dpljiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sheikhAman"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
